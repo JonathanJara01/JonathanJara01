@@ -5,7 +5,7 @@ const jonathanJaramillo = {
   technologies: 'Javascript', 'React', 'Postgres', 'etc.',
   passions: ['Web Developer', 'Frontend Developer', 'Backend Developer']
 }
-
+	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 
 <!--
