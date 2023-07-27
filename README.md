@@ -8,7 +8,7 @@
 <code><img height="40" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" alt="nodejs" src="https://github.com/JonathanJara01/JonathanJara01/assets/125410451/8f7a150b-ebe7-4e06-a106-bd3447a471cb"></code>  
 <code><img height="40" alt="nodejs" src="https://github.com/JonathanJara01/JonathanJara01/assets/125410451/1a09497f-6275-4681-a84c-82e79029b301"></code> 
-
+<code><img height="40" alt="nodejs" src="https://github.com/JonathanJara01/JonathanJara01/assets/125410451/769ffccf-c0e4-4b57-95fb-371b850b2cb3"></code> 
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jonathanjara01&show_icons=true&theme=gotham" alt="jonathanjara01" />
