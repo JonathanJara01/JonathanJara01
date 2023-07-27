@@ -10,6 +10,7 @@
 <code><img height="40" alt="nodejs" src="https://github.com/JonathanJara01/JonathanJara01/assets/125410451/1a09497f-6275-4681-a84c-82e79029b301"></code> 
 <code><img height="40" alt="nodejs" src="https://github.com/JonathanJara01/JonathanJara01/assets/125410451/769ffccf-c0e4-4b57-95fb-371b850b2cb3"></code> 
 <br></br>
+<h3>My Stats: </h3>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jonathanjara01&show_icons=true&theme=gotham" alt="jonathanjara01" />
 
 <!--
