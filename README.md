@@ -5,7 +5,7 @@ const jonathanJaramillo = {
   technologies: 'Javascript', 'React', 'Postgres', 'etc.',
   passions: ['Web Developer', 'Frontend Developer', 'Backend Developer']
 }
-	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+![badgeGmail]([https://github.com/JonathanJara01/JonathanJara01/assets/125410451/265cb983-c26e-4276-8742-6fd67ed318a4](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))
 
 
 <!--
