@@ -1,6 +1,13 @@
 ### Hi there, I'm Jonathan Jaramillo 👋
 ![Blue Geometric Technology LinkedIn Banner](https://github.com/JonathanJara01/JonathanJara01/assets/125410451/265cb983-c26e-4276-8742-6fd67ed318a4)
 
+const jonathanJaramillo = {
+  technologies: 'Javascript', 'React', 'Postgres', 'etc.',
+  passions: ['Web Developer', 'Frontend Developer', 'Backend Developer']
+}
+
+
+
 <!--
 **JonathanJara01/JonathanJara01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
