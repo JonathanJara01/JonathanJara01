@@ -11,7 +11,7 @@
 <code><img height="40" alt="nodejs" src="https://github.com/JonathanJara01/JonathanJara01/assets/125410451/769ffccf-c0e4-4b57-95fb-371b850b2cb3"></code> 
 <br></br>
 <h3>My Stats: </h3>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jonathanjara01&show_icons=true&theme=gotham" alt="jonathanjara01" />
+<code> align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jonathanjara01&show_icons=true&theme=gotham" alt="jonathanjara01"></code>
 
 <!--
 **JonathanJara01/JonathanJara01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
