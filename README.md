@@ -1,10 +1,7 @@
 ### Hi there, I'm Jonathan Jaramillo 👋
 ![Blue Geometric Technology LinkedIn Banner](https://github.com/JonathanJara01/JonathanJara01/assets/125410451/265cb983-c26e-4276-8742-6fd67ed318a4)
 
-const jonathanJaramillo = {
-  technologies: 'Javascript', 'React', 'Postgres', 'etc.',
-  passions: ['Web Developer', 'Frontend Developer', 'Backend Developer']
-}
+<h1>Technologies: </h1>
 <code><img height="40" alt="js" src="https://github.com/JonathanJara01/JonathanJara01/assets/125410451/2b89368d-6fbc-41b4-bda1-1d26bbfd4cf4"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
