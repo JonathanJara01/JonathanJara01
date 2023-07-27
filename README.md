@@ -6,7 +6,7 @@ const jonathanJaramillo = {
   passions: ['Web Developer', 'Frontend Developer', 'Backend Developer']
 }
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+![js-svgrepo-com](https://github.com/JonathanJara01/JonathanJara01/assets/125410451/2b89368d-6fbc-41b4-bda1-1d26bbfd4cf4)
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 
