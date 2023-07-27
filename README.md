@@ -4,7 +4,7 @@
 <h1>Technologies: </h1>
 <code><img height="40" alt="js" src="https://github.com/JonathanJara01/JonathanJara01/assets/125410451/2b89368d-6fbc-41b4-bda1-1d26bbfd4cf4"></code>
 <code><img height="40" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+<code><img height="40" alt="nodejs" src="https://github.com/JonathanJara01/JonathanJara01/assets/125410451/8f7a150b-ebe7-4e06-a106-bd3447a471cb"></code>  
 
 
 
