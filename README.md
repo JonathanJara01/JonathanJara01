@@ -8,6 +8,11 @@ const jonathanJaramillo = {
 ![badgeGmail]([https://github.com/JonathanJara01/JonathanJara01/assets/125410451/265cb983-c26e-4276-8742-6fd67ed318a4](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))
 
 
+
+
+
+<p align="center"> <img src="[https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham](https://github-readme-stats.vercel.app/api?username=jonathanjara01&show_icons=true&theme=gotham)" alt="jonathanjara01" />
+
 <!--
 **JonathanJara01/JonathanJara01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
