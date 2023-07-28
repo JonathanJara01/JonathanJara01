@@ -6,6 +6,8 @@
 ![Blue Geometric Technology LinkedIn Banner](https://github.com/JonathanJara01/JonathanJara01/assets/125410451/265cb983-c26e-4276-8742-6fd67ed318a4)
 
 <p align="center">
+  <FONT FACE="impact" SIZE=6 COLOR="red">
+ Texto de prueba 12345 con tipo IMPACT</FONT>
   <FONT FACE="Antonio"> Hi, I'm Jonathan Jaramillo, Software FullStack Web Developer from Colombia</FONT>
   <br>
   <br>
