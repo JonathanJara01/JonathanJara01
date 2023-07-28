@@ -1,5 +1,4 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jonathajara01.visitor-badge&format=true)
-
+<code><img height="40" alt="visitor" src="https://visitor-badge.laobi.icu/badge?page_id=jonathanjara01.visitor-badge-query&query_only=true"></code>
 
 ### Hi there, I'm Jonathan Jaramillo 👋
 ![Blue Geometric Technology LinkedIn Banner](https://github.com/JonathanJara01/JonathanJara01/assets/125410451/265cb983-c26e-4276-8742-6fd67ed318a4)
