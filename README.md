@@ -12,7 +12,7 @@
   <br>
   🎓 I am currently studying a technology in computer systems at the University of Caldas
   <br>
-  🎓 I am currently studying at Henry
+  🎓 I am currently studying at Henry, completing my final stage of the bootcamp
   <br>
   💻 I love writing code and learn anythings about it
   <br>
