@@ -18,7 +18,7 @@
   <br>
   📚 I’m currently learning how to build E-Commerce Website with React, TypeScript and other languages
   <br>
-  💬 Ask me anything about from <a href="www.linkedin.com/in/jonathan-jaramillo-671434265" title="here">Here</a>
+  💬 Ask me anything about from <a href="https://www.linkedin.com/in/jonathan-jaramillo-671434265" title="here">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: jonathanjz012493@gmail.com">jonathanjz012493@gmail.com</a>
 </p>
