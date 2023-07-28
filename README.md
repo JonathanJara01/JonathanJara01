@@ -6,6 +6,22 @@
 
 ![Blue Geometric Technology LinkedIn Banner](https://github.com/JonathanJara01/JonathanJara01/assets/125410451/265cb983-c26e-4276-8742-6fd67ed318a4)
 
+<p align="center">
+  Hi, I'm Jonathan Jaramillo, Software FullStack Web Developer from Colombia
+  <br>
+  <br>
+  🎓 I am currently studying a technology in computer systems at the University of Caldas
+  <br>
+  🎓 I am currently studying at Henry
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  📚 I’m currently learning how to build E-Commerce Website with React, TypeScript and other languages
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/jonathanjara01" title="here">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: jonathanjz012493@gmail.com">jonathanjz012493@gmail.com</a>
+</p>
 
 <h1><code><img height="40" alt="coding" src="https://github.com/JonathanJara01/JonathanJara01/assets/125410451/43d215ef-d837-40e4-92fd-94a0ebb54b09"></code> Languages and Tools: 👨🏻‍💻 </h1>
 <h4>Backend
