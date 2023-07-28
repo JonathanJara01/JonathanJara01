@@ -1,8 +1,4 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋...;//+I'm,+Jonathan+Jaramillo....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Antonio&size=30&duration=6000&pause=1000&color=2D3142&center=true&vCenter=true&width=435&lines=Hello%2C+Everyone!;+I'm%2C+Jonathan+Jaramillo;FullStack+Web+Developer;Nice+To+Meet+You!" alt="Typing SVG" /></a>
 
 ![Blue Geometric Technology LinkedIn Banner](https://github.com/JonathanJara01/JonathanJara01/assets/125410451/265cb983-c26e-4276-8742-6fd67ed318a4)
 
