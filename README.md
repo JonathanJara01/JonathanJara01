@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jonathanjara01">
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jonathajara01.visitor-badge&format=true)
 
 
 ### Hi there, I'm Jonathan Jaramillo 👋
